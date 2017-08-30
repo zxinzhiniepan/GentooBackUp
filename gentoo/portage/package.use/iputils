@@ -1,0 +1,7 @@
+net-misc/iputils -caps -filecaps
+# required by www-client/chromium-59.0.3071.104::gentoo
+# required by chromium (argument)
+>=sys-libs/zlib-1.2.11 minizip
+# required by www-client/chromium-59.0.3071.104::gentoo
+# required by chromium (argument)
+>=media-libs/harfbuzz-1.4.5 icu

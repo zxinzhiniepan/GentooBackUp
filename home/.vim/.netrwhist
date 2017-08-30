@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/zhanghua/.config/terminator'
+let g:netrw_dirhist_2='/home/zhanghua/.usr'
+let g:netrw_dirhist_3='/home/zhanghua/.usr/tmux-powerline/lib'
+let g:netrw_dirhist_4='/home/zhanghua/.usr/tmux-powerline/themes'

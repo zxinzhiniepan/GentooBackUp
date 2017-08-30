@@ -1,0 +1,17 @@
+2017/07/23-13:56:34.830 4590 Reusing MANIFEST /home/zhanghua/.config/chromium/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
+2017/07/23-13:56:34.831 4590 Recovering log #1015
+2017/07/23-13:56:34.849 4590 Reusing old log /home/zhanghua/.config/chromium/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/001015.log 
+2017/07/23-13:57:38.533 5141 Level-0 table #1019: started
+2017/07/23-13:57:38.709 5141 Level-0 table #1019: 2611396 bytes OK
+2017/07/23-13:57:38.728 5141 Delete type=0 #1015
+2017/07/23-13:57:38.731 5141 Compacting 4@0 + 2@1 files
+2017/07/23-13:57:38.936 5141 Generated table #1020@0: 1 keys, 2611064 bytes
+2017/07/23-13:57:38.954 5141 Generated table #1021@0: 5 keys, 422 bytes
+2017/07/23-13:57:38.954 5141 Compacted 4@0 + 2@1 files => 2611486 bytes
+2017/07/23-13:57:38.968 5141 compacted to: files[ 0 2 1 0 0 0 0 ]
+2017/07/23-13:57:38.968 5141 Delete type=2 #1016
+2017/07/23-13:57:38.969 5141 Delete type=2 #1019
+2017/07/23-13:57:38.970 5141 Delete type=2 #1012
+2017/07/23-13:57:38.970 5141 Delete type=2 #1010
+2017/07/23-13:57:38.970 5141 Delete type=2 #1014
+2017/07/23-13:57:38.971 5141 Delete type=2 #1009

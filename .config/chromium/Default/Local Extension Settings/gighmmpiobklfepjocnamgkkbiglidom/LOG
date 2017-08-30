@@ -1,0 +1,39 @@
+2017/07/03-21:00:49.705 4094 Reusing MANIFEST /home/zhanghua/.config/chromium/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
+2017/07/03-21:00:49.705 4094 Recovering log #145
+2017/07/03-21:00:51.017 4094 Level-0 table #148: started
+2017/07/03-21:00:51.137 4094 Level-0 table #148: 2590506 bytes OK
+2017/07/03-21:00:51.152 4094 Delete type=0 #145
+2017/07/03-21:00:51.153 4419 Compacting 4@0 + 2@1 files
+2017/07/03-21:00:52.641 4419 Generated table #150@0: 1 keys, 2590506 bytes
+2017/07/03-21:00:52.768 4419 Generated table #151@0: 4 keys, 439 bytes
+2017/07/03-21:00:52.768 4419 Compacted 4@0 + 2@1 files => 2590945 bytes
+2017/07/03-21:00:52.852 4419 compacted to: files[ 0 2 1 0 0 0 0 ]
+2017/07/03-21:00:52.853 4419 Delete type=2 #144
+2017/07/03-21:00:52.853 4419 Delete type=2 #146
+2017/07/03-21:00:52.854 4419 Delete type=2 #140
+2017/07/03-21:00:52.854 4419 Delete type=2 #139
+2017/07/03-21:00:52.854 4419 Delete type=2 #148
+2017/07/03-21:00:52.855 4419 Delete type=2 #142
+2017/07/03-21:01:53.191 4419 Level-0 table #153: started
+2017/07/03-21:01:53.305 4419 Level-0 table #153: 2590775 bytes OK
+2017/07/03-21:01:53.315 4419 Delete type=0 #149
+2017/07/03-21:02:16.551 4419 Level-0 table #155: started
+2017/07/03-21:02:16.665 4419 Level-0 table #155: 2590643 bytes OK
+2017/07/03-21:02:16.681 4419 Delete type=0 #152
+2017/07/03-22:01:53.918 4419 Level-0 table #157: started
+2017/07/03-22:01:54.025 4419 Level-0 table #157: 2591142 bytes OK
+2017/07/03-22:01:54.031 4419 Delete type=0 #154
+2017/07/03-22:03:10.741 4419 Level-0 table #159: started
+2017/07/03-22:03:10.924 4419 Level-0 table #159: 2590645 bytes OK
+2017/07/03-22:03:10.937 4419 Delete type=0 #156
+2017/07/03-22:03:10.940 4419 Compacting 4@0 + 2@1 files
+2017/07/03-22:03:11.344 4419 Generated table #160@0: 1 keys, 2590645 bytes
+2017/07/03-22:03:11.554 4419 Generated table #161@0: 4 keys, 394 bytes
+2017/07/03-22:03:11.554 4419 Compacted 4@0 + 2@1 files => 2591039 bytes
+2017/07/03-22:03:11.974 4419 compacted to: files[ 0 2 1 0 0 0 0 ]
+2017/07/03-22:03:11.975 4419 Delete type=2 #150
+2017/07/03-22:03:11.975 4419 Delete type=2 #157
+2017/07/03-22:03:11.976 4419 Delete type=2 #159
+2017/07/03-22:03:11.977 4419 Delete type=2 #153
+2017/07/03-22:03:11.978 4419 Delete type=2 #155
+2017/07/03-22:03:11.979 4419 Delete type=2 #151

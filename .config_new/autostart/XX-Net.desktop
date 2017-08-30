@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=XX-Net
+Exec=/home/zhanghua/Mnt/Programs/NecessarySoftware/Proxy/XX-Net/start
+Type=Application
+Terminal=false
+X-GNOME-Autostart-enabled=true

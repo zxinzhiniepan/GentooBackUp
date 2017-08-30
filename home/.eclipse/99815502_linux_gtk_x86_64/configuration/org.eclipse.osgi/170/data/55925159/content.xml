@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?metadataRepository version='1.1.0'?>
+<repository name='/opt/eclipse-sdk-bin-4.6/.eclipseextension' type='org.eclipse.equinox.internal.p2.metadata.repository.LocalMetadataRepository' version='1.0.0'>
+  <properties size='3'>
+    <property name='p2.timestamp' value='1499489288150'/>
+    <property name='org.eclipse.update.site.policy' value='USER-EXCLUDE'/>
+    <property name='org.eclipse.update.site.list' value=''/>
+  </properties>
+  <references size='8'>
+    <repository uri='http://download.eclipse.org/mylyn/releases/3.21' url='http://download.eclipse.org/mylyn/releases/3.21' type='1' options='0'/>
+    <repository uri='http://download.eclipse.org/egit/updates' url='http://download.eclipse.org/egit/updates' type='0' options='0'/>
+    <repository uri='http://download.eclipse.org/egit/updates' url='http://download.eclipse.org/egit/updates' type='1' options='0'/>
+    <repository uri='http://download.eclipse.org/oomph/updates' url='http://download.eclipse.org/oomph/updates' type='1' options='0'/>
+    <repository uri='http://download.eclipse.org/oomph/updates' url='http://download.eclipse.org/oomph/updates' type='0' options='0'/>
+    <repository uri='http://download.eclipse.org/mylyn/releases/3.21' url='http://download.eclipse.org/mylyn/releases/3.21' type='0' options='0'/>
+    <repository uri='http://www.eclipse.org/modeling/updates/' url='http://www.eclipse.org/modeling/updates/' type='0' options='0'/>
+    <repository uri='http://www.eclipse.org/modeling/updates/' url='http://www.eclipse.org/modeling/updates/' type='1' options='0'/>
+  </references>
+  <units size='3'>
+    <unit id='org.eclipse.ecf.ssl.translated_host_properties' version='1.2.0.v20160823-2221'>
+      <hostRequirements size='1'>
+        <required namespace='org.eclipse.equinox.p2.iu' name='org.eclipse.ecf' range='0.0.0' greedy='false'/>
+      </hostRequirements>
+      <properties size='3'>
+        <property name='org.eclipse.equinox.p2.type.fragment' value='true'/>
+        <property name='df_LT.plugin.provider' value='Eclipse.org - ECF'/>
+        <property name='df_LT.plugin.name' value='ECF SSL Fragment'/>
+      </properties>
+      <provides size='2'>
+        <provided namespace='org.eclipse.equinox.p2.iu' name='org.eclipse.ecf.ssl.translated_host_properties' version='1.2.0.v20160823-2221'/>
+        <provided namespace='org.eclipse.equinox.p2.localization' name='df_LT' version='1.0.0'/>
+      </provides>
+      <requires size='1'>
+        <required namespace='org.eclipse.equinox.p2.iu' name='org.eclipse.ecf' range='0.0.0' greedy='false'/>
+      </requires>
+      <touchpoint id='null' version='0.0.0'/>
+    </unit>
+    <unit id='org.maven.ide.eclipse' version='1.7.0.20160603-1933'>
+      <properties size='2'>
+        <property name='org.eclipse.equinox.p2.name' value='This version of m2eclipse cannot be installed on top of the already installed m2eclipse. Uninstall the previous version of m2eclipse and try the install again.'/>
+        <property name='maven-classifier' value='p2inf'/>
+      </properties>
+      <provides size='1'>
+        <provided namespace='osgi.bundle' name='org.maven.ide.eclipse' version='1.7.0.20160603-1933'/>
+      </provides>
+      <touchpoint id='null' version='0.0.0'/>
+    </unit>
+    <unit id='com.google.inject.multibindings.translated_host_properties' version='3.0.0.v201605172100'>
+      <hostRequirements size='1'>
+        <required namespace='org.eclipse.equinox.p2.iu' name='com.google.inject' range='[3.0.0,4.0.0)' greedy='false'/>
+      </hostRequirements>
+      <properties size='4'>
+        <property name='org.eclipse.equinox.p2.type.fragment' value='true'/>
+        <property name='df_LT.Bundle-Name' value='Google Guice Multibindings'/>
+        <property name='df_LT.Bundle-Description' value='Guice is a lightweight dependency injectionframework for Java 5 and above. This bundle contains the no-aopvariant.'/>
+        <property name='df_LT.Bundle-Vendor' value='Eclipse Orbit'/>
+      </properties>
+      <provides size='2'>
+        <provided namespace='org.eclipse.equinox.p2.iu' name='com.google.inject.multibindings.translated_host_properties' version='3.0.0.v201605172100'/>
+        <provided namespace='org.eclipse.equinox.p2.localization' name='df_LT' version='1.0.0'/>
+      </provides>
+      <requires size='1'>
+        <required namespace='org.eclipse.equinox.p2.iu' name='com.google.inject' range='[3.0.0,4.0.0)' greedy='false'/>
+      </requires>
+      <touchpoint id='null' version='0.0.0'/>
+    </unit>
+  </units>
+</repository>

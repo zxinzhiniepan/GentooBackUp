@@ -1,0 +1,32 @@
+{
+   "description": "",
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCNlLuJCjF5DmKuCjVoKKeVZFUpfKuLyJovPzXfLWuVdYMoOxTsJHMTTjvZmZfoCofrchvZcdvXWG1BbL8SGQSzX8NZ9QXhpYjmRqiw3e8yfDO9lEptPvDMVd3t2Sqty3ZFQyBY7wWzsDs5O2He+2VM1hOViCUG+b6FKH1n8goPxwIDAQAB",
+   "manifest_version": 2,
+   "name": "luotianyi theme",
+   "theme": {
+      "colors": {
+         "bookmark_text": [ 18, 50, 114 ],
+         "button_background": [ 0, 0, 0, 0 ],
+         "frame": [ 141, 98, 132 ],
+         "ntp_background": [ 255, 255, 255 ],
+         "ntp_text": [ 0, 0, 0 ],
+         "tab_background_text": [ 64, 64, 64 ],
+         "tab_text": [ 0, 0, 0 ],
+         "toolbar": [ 223, 223, 223 ]
+      },
+      "images": {
+         "theme_frame": "images/theme_frame.png",
+         "theme_ntp_background": "images/theme_ntp_background.png",
+         "theme_toolbar": "images/theme_toolbar.png"
+      },
+      "properties": {
+         "ntp_background_alignment": "left bottom",
+         "ntp_background_repeat": "no-repeat"
+      },
+      "tints": {
+         "buttons": [ 0, 0, 0.6 ]
+      }
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.1"
+}

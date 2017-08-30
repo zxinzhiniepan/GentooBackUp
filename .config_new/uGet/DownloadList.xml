@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<UgDownloadList version='1'>
+  <download>
+    <DataList>
+      <DataClass name='common'>
+        <url value='ed2k://|file|cn_windows_10_multiple_editions_version_1703_updated_march_2017_x64_dvd_10194190.iso|4587292672|373B263D307F6AA2486A74E557DD22C9|/'/>
+        <folder value='/home/zhanghua/Downloads'/>
+        <RetrieveTimestamp value='1'/>
+        <ConnectTimeout value='30'/>
+        <TransmitTimeout value='30'/>
+        <RetryDelay value='6'/>
+        <RetryLimit value='99'/>
+        <MaxConnections value='1'/>
+        <MaxUploadSpeed value='0'/>
+        <MaxDownloadSpeed value='0'/>
+      </DataClass>
+      <DataClass name='proxy'>
+        <port value='80'/>
+        <type value='0'/>
+      </DataClass>
+      <DataClass name='relation'>
+        <hints value='8'/>
+        <AttachedStamp value='0'/>
+        <MessageType value='5'/>
+        <MessageString value='No plug-in support this scheme or file.'/>
+      </DataClass>
+      <DataClass name='http'>
+        <RedirectionLimit value='30'/>
+        <RedirectionCount value='0'/>
+      </DataClass>
+      <DataClass name='log'>
+        <AddedOn value='2017-08-20 07:36:47'/>
+      </DataClass>
+    </DataList>
+  </download>
+</UgDownloadList>

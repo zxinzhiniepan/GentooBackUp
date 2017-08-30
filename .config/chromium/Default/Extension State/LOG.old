@@ -1,0 +1,45 @@
+2017/07/03-15:20:59.001 4163 Reusing MANIFEST /home/zhanghua/.config/chromium/Default/Extension State/MANIFEST-000001
+2017/07/03-15:20:59.001 4163 Recovering log #67
+2017/07/03-15:20:59.365 4163 Reusing old log /home/zhanghua/.config/chromium/Default/Extension State/000067.log 
+2017/07/03-15:21:34.942 4503 Level-0 table #72: started
+2017/07/03-15:21:35.033 4503 Level-0 table #72: 4016892 bytes OK
+2017/07/03-15:21:35.051 4503 Delete type=0 #67
+2017/07/03-16:00:53.742 4503 Level-0 table #74: started
+2017/07/03-16:00:54.122 4503 Level-0 table #74: 4058721 bytes OK
+2017/07/03-16:00:54.135 4503 Delete type=0 #71
+2017/07/03-16:34:06.644 4503 Level-0 table #76: started
+2017/07/03-16:34:07.114 4503 Level-0 table #76: 4088912 bytes OK
+2017/07/03-16:34:07.206 4503 Delete type=0 #73
+2017/07/03-16:42:13.776 4503 Level-0 table #78: started
+2017/07/03-16:42:13.885 4503 Level-0 table #78: 4146121 bytes OK
+2017/07/03-16:42:13.895 4503 Delete type=0 #75
+2017/07/03-16:42:13.897 4503 Compacting 4@0 + 1@1 files
+2017/07/03-16:42:13.943 4503 Generated table #79@0: 7 keys, 12152 bytes
+2017/07/03-16:42:13.943 4503 Compacted 4@0 + 1@1 files => 12152 bytes
+2017/07/03-16:42:13.951 4503 compacted to: files[ 0 1 1 0 0 0 0 ]
+2017/07/03-16:42:13.951 4503 Delete type=2 #78
+2017/07/03-16:42:13.955 4503 Delete type=2 #74
+2017/07/03-16:42:13.957 4503 Delete type=2 #76
+2017/07/03-16:42:13.959 4503 Delete type=2 #72
+2017/07/03-16:42:13.961 4503 Delete type=2 #69
+2017/07/03-17:08:27.687 4503 Level-0 table #81: started
+2017/07/03-17:08:27.879 4503 Level-0 table #81: 4123338 bytes OK
+2017/07/03-17:08:27.983 4503 Delete type=0 #77
+2017/07/03-19:17:23.721 4503 Level-0 table #83: started
+2017/07/03-19:17:23.901 4503 Level-0 table #83: 4031950 bytes OK
+2017/07/03-19:17:23.914 4503 Delete type=0 #80
+2017/07/03-20:04:52.377 4503 Level-0 table #85: started
+2017/07/03-20:04:53.058 4503 Level-0 table #85: 4186034 bytes OK
+2017/07/03-20:04:53.065 4503 Delete type=0 #82
+2017/07/03-20:47:19.052 4503 Level-0 table #87: started
+2017/07/03-20:47:19.159 4503 Level-0 table #87: 4163802 bytes OK
+2017/07/03-20:47:19.166 4503 Delete type=0 #84
+2017/07/03-20:47:19.168 4503 Compacting 4@0 + 1@1 files
+2017/07/03-20:47:19.229 4503 Generated table #88@0: 7 keys, 12155 bytes
+2017/07/03-20:47:19.229 4503 Compacted 4@0 + 1@1 files => 12155 bytes
+2017/07/03-20:47:19.235 4503 compacted to: files[ 0 1 1 0 0 0 0 ]
+2017/07/03-20:47:19.236 4503 Delete type=2 #85
+2017/07/03-20:47:19.238 4503 Delete type=2 #83
+2017/07/03-20:47:19.240 4503 Delete type=2 #79
+2017/07/03-20:47:19.240 4503 Delete type=2 #87
+2017/07/03-20:47:19.241 4503 Delete type=2 #81

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config date="1499485057536" shared_ur="file:configuration/org.eclipse.update/platform.xml" transient="false" version="3.0">
+<site enabled="true" policy="USER-EXCLUDE" updateable="true" url="file:../../home/zhanghua/.eclipse/99815502_linux_gtk_x86_64/">
+<feature id="org.eclim.installer" url="features/org.eclim.installer_2.6.0/" version="2.6.0">
+</feature>
+</site>
+</config>

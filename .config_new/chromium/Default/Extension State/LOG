@@ -1,0 +1,21 @@
+2017/08/25-09:15:18.847 4036 Reusing MANIFEST /home/zhanghua/.config/chromium/Default/Extension State/MANIFEST-000001
+2017/08/25-09:15:18.869 4036 Recovering log #1452
+2017/08/25-09:15:19.338 4036 Reusing old log /home/zhanghua/.config/chromium/Default/Extension State/001452.log 
+2017/08/25-09:17:11.401 4683 Level-0 table #1456: started
+2017/08/25-09:17:11.497 4683 Level-0 table #1456: 3997530 bytes OK
+2017/08/25-09:17:11.508 4683 Delete type=0 #1452
+2017/08/25-09:17:11.509 4683 Compacting 4@0 + 1@1 files
+2017/08/25-09:17:11.786 4683 Generated table #1457@0: 9 keys, 14645 bytes
+2017/08/25-09:17:11.786 4683 Compacted 4@0 + 1@1 files => 14645 bytes
+2017/08/25-09:17:11.797 4683 compacted to: files[ 0 1 1 0 0 0 0 ]
+2017/08/25-09:17:11.798 4683 Delete type=2 #1453
+2017/08/25-09:17:11.798 4683 Delete type=2 #1449
+2017/08/25-09:17:11.799 4683 Delete type=2 #1456
+2017/08/25-09:17:11.800 4683 Delete type=2 #1451
+2017/08/25-09:17:11.801 4683 Delete type=2 #1447
+2017/08/25-10:09:43.961 4683 Level-0 table #1459: started
+2017/08/25-10:09:44.119 4683 Level-0 table #1459: 4004330 bytes OK
+2017/08/25-10:09:44.142 4683 Delete type=0 #1455
+2017/08/25-10:30:25.797 4683 Level-0 table #1461: started
+2017/08/25-10:30:25.892 4683 Level-0 table #1461: 3951627 bytes OK
+2017/08/25-10:30:25.897 4683 Delete type=0 #1458

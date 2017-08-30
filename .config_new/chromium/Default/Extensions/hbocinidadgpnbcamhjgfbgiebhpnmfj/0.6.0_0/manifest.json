@@ -1,0 +1,26 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "dist/background.js" ]
+   },
+   "content_scripts": [ {
+      "js": [ "dist/flv.min.js", "dist/douyuCS.js" ],
+      "matches": [ "*://*.douyu.com/*" ],
+      "run_at": "document_end"
+   } ],
+   "description": "基于 flv.js 的斗鱼HTML5播放器.",
+   "icons": {
+      "256": "icon.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApgtEC3wddAlAMo8TCco0lUXUkAaPM8jsvCbfevDx3xuXwAJAqsdNlXQ1yp5VNMqiK93wB+eBT+xnzJPZlDada92ra43OE6WkqwJQ/aCT2/ByrviZzID3b+BMeEQpV8UZWl2M5x1Wcx+7irIzlRVK+yTNk9T8iv9GkKfZIDUyRzmCiKukV1zX/MnjkgnweQojX2FNF4Dbe08g1Lg416eNA8qTYKFB05oZQ0rRnrnQspoKAl39W2FnzSP4nxkDh5IZMW78sDBzxPmsQcrfYGI3lkceOEZTRDcCU6uHljaE1dWTXmk2miDQ/7hwbsEYoKlALLReAlMWSDEEwDYju7BgcwIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "49",
+   "name": "斗鱼HTML5播放器",
+   "page_action": {
+      "default_icon": "icon.png"
+   },
+   "permissions": [ "cookies", "tabs", "storage", "*://*.douyu.com/*", "*://*.douyucdn.cn/*", "*://*/*" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.6.0",
+   "web_accessible_resources": [ "icon.png", "libs/JSocket.js", "libs/md5.js", "libs/less.min.js", "src/img/*", "src/*", "src/sharedWorker/sharedWorker.html", "dist/*", "*://*/*" ]
+}

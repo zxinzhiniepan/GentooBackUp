@@ -1,0 +1,18 @@
+pcm.!spdif {
+     type hw
+     card 1
+     device 0
+}
+
+pcm.!default {
+     type plug
+     slave {
+           pcm "spdif"
+     }
+}
+
+# Share a single card with multiple applications 
+#pcm.!default {
+#    type plug
+#    slave.pcm "dmix:CARD=0,DEVICE=1,RATE=48000"
+#}

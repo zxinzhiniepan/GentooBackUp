@@ -1,0 +1,21 @@
+{
+   "background": {
+      "page": "main.html"
+   },
+   "browser_action": {
+      "default_icon": "icon/icon64.png",
+      "default_popup": "popup.html",
+      "default_title": "ADfree.Player.Online"
+   },
+   "description": "这是一款专业屏蔽视频广告的扩展。",
+   "icons": {
+      "128": "icon/icon128.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzlvwo3RnSaLjfal47VSbvCM4t0Z45h3nxU6eqT5OgTzrt31/TNDZx+rulopsL2n1Be+1T5efENxFNlzh3hfRpOBve6EZga7zCZAz2RCYlzKTGUmd6UoWi8OI+9W9ngW440+DarQ6B58sbQFHi/DmE7K9NnkGs8BUw3rAwuvzP8y/qdMj9AeSaCZ2JPYyFGmbDpc7B+B9lvlqi6VMx5WIq1J0QPCMeEquHHrrs75Pk7iV0Do++lCB7J9o91IFLJsVtRDbsRPklOL1bbq5aJa5ZkCgUN+HfmjtFn9BOBwlL39uNtD1bbR2Bd2NGtfMGI0OlaxbHtBs+1UHQUQ/CNgOSQIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "38.0.2121.3",
+   "name": "ADfree.Player.Online",
+   "permissions": [ "storage", "unlimitedStorage", "browsingData", "proxy", "tabs", "webRequest", "webRequestBlocking", "\u003Call_urls>", "http://*/*", "https://*/*" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.4.6.1"
+}

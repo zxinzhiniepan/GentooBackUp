@@ -1,0 +1,22 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.8.2
+Created-By: 1.8.0_131-b11 (Oracle Corporation)
+Bundle-ManifestVersion: 2
+Bundle-Vendor: eclim.org
+Bundle-SymbolicName: org.eclim.dltk; singleton:=true
+Bundle-Version: 2.6.0
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Bundle-Localization: plugin
+Bundle-ActivationPolicy: lazy
+Bundle-Activator: org.eclim.plugin.Plugin
+Bundle-ClassPath: ., eclim.dltk.jar
+Export-Package: org.eclim.plugin.dltk, org.eclim.plugin.dltk.command.b
+ uildpath, org.eclim.plugin.dltk.command.complete, org.eclim.plugin.dl
+ tk.command.launching, org.eclim.plugin.dltk.command.search, org.eclim
+ .plugin.dltk.command.src, org.eclim.plugin.dltk.preference, org.eclim
+ .plugin.dltk.project, org.eclim.plugin.dltk.util
+Require-Bundle: org.eclim, org.eclim.core, org.eclipse.core.resources,
+  org.eclipse.core.runtime, org.eclipse.dltk.core, org.eclipse.dltk.co
+ re.manipulation, org.eclipse.dltk.debug.ui, org.eclipse.dltk.launchin
+ g, org.eclipse.dltk.ui
+

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=eclimd
+Exec=/home/zhanghua/.eclipse/99815502_linux_gtk_x86_64/eclimd -b
+StartupNotify=false
+X-GNOME-Autostart-enabled=true
